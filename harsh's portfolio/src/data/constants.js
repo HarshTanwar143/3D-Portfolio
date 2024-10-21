@@ -9,7 +9,7 @@ export const Bio = {
     "I am a driven and adaptable professional with a passion for learning and a commitment to delivering high-quality results. With a positive attitude and a growth mindset, I am prepared to tackle new challenges and make impactful contributions.",
   github: "https://github.com/HarshTanwar143",
   resume:
-    "https://drive.google.com/file/d/167wh2OdVnenuFjusGAfnqNvLQmZk1uUT/view?usp=sharing",
+    "https://drive.google.com/file/d/1uIr3dJMhy6ZjdVzCJzSmlAxn5VXTVAmc/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/harsh-tanwar-04315b247/",
   // twitter: "",
   insta: "https://www.instagram.com/harsh_tanwar_official12/",
